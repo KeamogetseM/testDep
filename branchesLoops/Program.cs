@@ -72,20 +72,15 @@ for (int index = 0; index < 10; index++)
 
 //Combining IF-statements and Loops together
 
- int sum = 0;
 
 for (int i = 1; i <= 25; i++)
 {
 
-    if (i % 3 == 0)
-    {
-      sum = sum + i;
+    Console.WriteLine($"Printing number {i}");
 
-    }
-    
 }
 
- Console.WriteLine($"The sum is {sum}");
+
 
 
 
