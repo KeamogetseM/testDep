@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'branchesLoops'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1EDA4AB6757E49EC83D7CC689841E989 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9E8F513FCB76475DBCACEE1707313C50 }}
           package: .
