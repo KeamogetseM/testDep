@@ -1,0 +1,14 @@
+C:\Users\KeamogetseMokoena\Desktop\My C# Projects\project4\branchesLoops\bin\Debug\net7.0\branchesLoops.exe
+C:\Users\KeamogetseMokoena\Desktop\My C# Projects\project4\branchesLoops\bin\Debug\net7.0\branchesLoops.deps.json
+C:\Users\KeamogetseMokoena\Desktop\My C# Projects\project4\branchesLoops\bin\Debug\net7.0\branchesLoops.runtimeconfig.json
+C:\Users\KeamogetseMokoena\Desktop\My C# Projects\project4\branchesLoops\bin\Debug\net7.0\branchesLoops.dll
+C:\Users\KeamogetseMokoena\Desktop\My C# Projects\project4\branchesLoops\bin\Debug\net7.0\branchesLoops.pdb
+C:\Users\KeamogetseMokoena\Desktop\My C# Projects\project4\branchesLoops\obj\Debug\net7.0\branchesLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KeamogetseMokoena\Desktop\My C# Projects\project4\branchesLoops\obj\Debug\net7.0\branchesLoops.AssemblyInfoInputs.cache
+C:\Users\KeamogetseMokoena\Desktop\My C# Projects\project4\branchesLoops\obj\Debug\net7.0\branchesLoops.AssemblyInfo.cs
+C:\Users\KeamogetseMokoena\Desktop\My C# Projects\project4\branchesLoops\obj\Debug\net7.0\branchesLoops.csproj.CoreCompileInputs.cache
+C:\Users\KeamogetseMokoena\Desktop\My C# Projects\project4\branchesLoops\obj\Debug\net7.0\branchesLoops.dll
+C:\Users\KeamogetseMokoena\Desktop\My C# Projects\project4\branchesLoops\obj\Debug\net7.0\refint\branchesLoops.dll
+C:\Users\KeamogetseMokoena\Desktop\My C# Projects\project4\branchesLoops\obj\Debug\net7.0\branchesLoops.pdb
+C:\Users\KeamogetseMokoena\Desktop\My C# Projects\project4\branchesLoops\obj\Debug\net7.0\branchesLoops.genruntimeconfig.cache
+C:\Users\KeamogetseMokoena\Desktop\My C# Projects\project4\branchesLoops\obj\Debug\net7.0\ref\branchesLoops.dll
