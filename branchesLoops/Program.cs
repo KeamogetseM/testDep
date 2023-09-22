@@ -74,7 +74,7 @@ for (int index = 0; index < 10; index++)
 
  int sum = 0;
 
-for (int i = 1; i <= 20; i++)
+for (int i = 1; i <= 25; i++)
 {
 
     if (i % 3 == 0)
